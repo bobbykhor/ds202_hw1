@@ -1,0 +1,22 @@
+---
+title: "hw1"
+author: "YiHang Khor; Github: bobbykhor"
+date: "1/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+version
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Job Related to Data Science
+
+In my opinion, current **aerospace engineering jobs** are related to *data science* without a doubt. In other words, the world-leading aerospace industry is utilizing *data science* technologies to improve its overall performance across a range of different operations. For example, big aerospace companies like Boeing, Airbus, and SpaceX are using data sensors to further improve their propulsion technologies.
+
+Link for Reference: https://www.opentracker.net/article/how-big-data-is-transforming-the-aerospace-industry
+
+![***Aerospace Industry is Related to Data Science***](https://datascience.aero/wp-content/uploads/2018/06/fdm-couple-25.jpg)
+
+```{r}
+version
+```
