@@ -1,0 +1,16 @@
+---
+title: "partner"
+author: "Kobe Pranivong"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Name: Kobe Pranivong
+GitHub: illuminobe
+In the most recent commit, Bobby typed "message1".
+Commit ID: f9634ca331ac01b8f3ae3be64000aee9f94b65b3
+There were no errors in kniting Bobby's hw1.
+
